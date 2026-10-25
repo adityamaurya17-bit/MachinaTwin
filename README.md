@@ -1,4 +1,4 @@
-# MACHINA-X — Digital Twin Predictive Maintenance System
+# MACHINA-TWIN — Digital Twin Predictive Maintenance System
 
 > **Academic Project** | Group 8 | ABES Engineering College | Dept. of CSE (Data Science)  
 > Guide: Monika Sharma
